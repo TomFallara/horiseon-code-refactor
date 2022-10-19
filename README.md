@@ -2,14 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-The goal of this project was to refactor given code to increase serach engine optimization. 
+The goal of this project was to refactor given code to increase serach engine optimization. Taking the intital code given, the task was largely to clean up the assicated style sheet, as there were many redundant classes that needed to be consolidated. 
 
 ## Installation
 
