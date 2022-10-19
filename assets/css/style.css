@@ -2,7 +2,6 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    /*this sets the global margin and padding to 0, as well as fitting boxes to their borders */
 }
 
 body {
@@ -50,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* this is the background image formatting*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* this governs the benefits listed in the side bar */
 .benefits {
     margin-right: 20px;
     margin-bottom: 32px;
@@ -91,7 +90,7 @@ p {
 
 .benefits h3 {
     margin-top: 32px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
@@ -101,7 +100,7 @@ p {
     max-width: 150px;
 }
 
-/*i am calling the three bleow services*/
+/*Services are the main body of the page */
 .services {
     margin-bottom: 20px;
     padding: 50px;
