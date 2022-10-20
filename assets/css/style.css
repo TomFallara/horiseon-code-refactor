@@ -50,6 +50,7 @@ a {
 p {
     font-size: 16px;
 }
+
 /* this is the background image formatting*/
 .hero {
     height: 800px;
@@ -75,6 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
 /* Benefits Side Bar */
 .benefits {
     margin-right: 20px;
