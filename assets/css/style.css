@@ -20,11 +20,12 @@ body {
     font-size: 48px;
 }
 
+/* this alters colors very slightly in the header */
 .seo {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +33,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -74,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/* this governs the benefits listed in the side bar */
+/* Benefits Side Bar */
 .benefits {
     margin-right: 20px;
     margin-bottom: 32px;
